@@ -66,6 +66,7 @@ _A curated list of awesome surveys, research papers, benchmarks, and links usefu
 - **[ReasoningNLP](https://github.com/FreedomIntelligence/ReasoningNLP)**  Paper list on reasoning in NLP
 - **[Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)**  Curated list of Large Language Model\
 - **[Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning)** Curated list of reasoning work in LLMs
+- **[Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models?tab=readme-ov-file#1-relevant-surveys-and-links)** A curated list of awesome large AI models, or foundation models, for reasoning.
 - **[Awesome-Legal-NLP](https://github.com/maastrichtlawtech/awesome-legal-nlp)** Selection of Legal NLP work
 - **[Awesome-LegalAI-Resources](https://github.com/CSHaitao/Awesome-LegalAI-Resources)** Curated resources related to Legal AI, including datasets, websites, and other useful links.
 
